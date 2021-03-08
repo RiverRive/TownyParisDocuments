@@ -1,6 +1,6 @@
 <h1>TownyParisDocuments</h1>
 <p>
-This repository contains all official and non-official documents the Towny Paris community has.
+This repository contains all official Towny Paris documents.
 </p>
 
 <ul>
